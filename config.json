@@ -4,7 +4,7 @@
             "name": "EU-LUCKPOOL",
             "url": "stratum+tcp://eu.luckpool.net:3960",
             "timeout": 180,
-            "disabled": 1
+            "disabled": 0
         },
 	{
             "name": "DE-VIPOR",
